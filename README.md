@@ -22,4 +22,5 @@ News
 more features can be added by including the api in it.
 
 # Current stage
-Currently i am designing and prototyping stage where i am exploring how i can build it in efficient manner
+Currently i am designing and prototyping stage where i am exploring how i can build it in efficient manner.
+I have now applied for the grant and waiting for it to get approved as soon as possible as it is kaing me very excited to work on.
