@@ -21,4 +21,21 @@ After this i made the Bill of Materials and made the google sheet, which i uploa
 
 After doing this i created the Gihub repository and arranged the files ,basically did this github repo work .
 
+# Day 2
+# What i did Today
+so day was a quite important for this project. I read tons of articles on many websites , did watch tons of videos , and finally able to finalize how will i be 
+able to work and complete this project.
+1. setup the software and operating System.
+ I was a bit worried about the software setup for the project but today's working on this got me the idea. We will be using MagicMirror framework which now i am finalizing as it has open source and has a wide community that will be helpful if any future error arises in the project.we can add further modules , there are many.
+2. Hardware assembly 
+ after finalizing how the software setup will be done Then i was figuring out how will i be able to make the wooden frame for the mirror where all parts will be assembled and setted up. so i will get the wooden ply which will not cause any harm to our equipments. how the mirror and monitor can be kept safe that was one concern , so will be providing some cution to protect it .
 
+3. I was looking if all the parts required for the project is listed or not in the bill of materials.i had forgotten to include the memory card in the list i did that. then the final list was done.
+  ![IMG_20260124_174306916](https://github.com/user-attachments/assets/723492f7-f4ba-49eb-878e-5d565da4faa9)
+
+After this i am applying for the grant. i want to work on this project as soon as possible as it is making me very excited.
+
+
+# Next Steps after Grant
+  so first of all i will try to buy the items listed items as soon as possible.
+  once all the items are ordered i will wait for delivery of them . Till the items are being delivered i will try to make the wooden frame,ensuring to provide cushion to the monitor and glass do not get scratched or damaged. after the items are delivered , i will install the opearting system and then the magic mirror software setup.
