@@ -47,21 +47,21 @@ I have made this project  on top of MagicMirror and customized for my use case.
 
 # BOM
 
-﻿ITEM NAME,PRICE($),SOURCE,PURPOSE
-LED Strips, 5.96, https://rebrand.ly/ami0tt0, Outline of the Smart Mirror
-Raspberry Pi 5,138,https://rebrand.ly/2stj695,Main controller of the Mirror
-Raspberry Pi 5 Official 27W with USB-C PC Power Supply,19,https://rebrand.ly/907dm6z,Giving power to the Raspberry pi 5
-Double Sided Tape,0,Already own,Sticking the Display in the mirror
-Two way Glass Mirror,50,Locally Purchasing,Front facing to act as mirror
-Wooden Frame,40,locally Making myself by Plywood,Enclosure of the mirror
-Monitor LCD Display,122,https://rebrand.ly/1jtghre,Display of the Project which will be placed in the back of the Mirror
-HDMI to mini HDMI Cable,2.8,https://rebrand.ly/kqwm4sh,Connecting the monitor to the raspberry pi
-"Carpentry Tools(Hammer , Saw,etc)",0,already own,Making the frame for the monitor
-Microphone,0,already own,adding voice module
-Memory Card,5,will buy from local market,for Operating system of raspberry pi
-Speakers,0,already own,For the audio output from the smart mirror
-Total,382.76,,
-
+|ITEM NAME                                             |PRICE($)|SOURCE                          |PURPOSE                                                              |
+|------------------------------------------------------|--------|--------------------------------|---------------------------------------------------------------------|
+|LED Strips                                            | 5.96   | https://rebrand.ly/ami0tt0     | Outline of the Smart Mirror                                         |
+|Raspberry Pi 5                                        |138     |https://rebrand.ly/2stj695      |Main controller of the Mirror                                        |
+|Raspberry Pi 5 Official 27W with USB-C PC Power Supply|19      |https://rebrand.ly/907dm6z      |Giving power to the Raspberry pi 5                                   |
+|Double Sided Tape                                     |0       |Already own                     |Sticking the Display in the mirror                                   |
+|Two way Glass Mirror                                  |50      |Locally Purchasing              |Front facing to act as mirror                                        |
+|Wooden Frame                                          |40      |locally Making myself by Plywood|Enclosure of the mirror                                              |
+|Monitor LCD Display                                   |122     |https://rebrand.ly/1jtghre      |Display of the Project which will be placed in the back of the Mirror|
+|HDMI to mini HDMI Cable                               |2.8     |https://rebrand.ly/kqwm4sh      |Connecting the monitor to the raspberry pi                           |
+|Carpentry Tools(Hammer , Saw,etc)                     |0       |already own                     |Making the frame for the monitor                                     |
+|Microphone                                            |0       |already own                     |adding voice module                                                  |
+|Memory Card                                           |5       |will buy from local market      |for Operating system of raspberry pi                                 |
+|Speakers                                              |0       |already own                     |For the audio output from the smart mirror                           |
+|Total                                                 |382.76  |                                |                                                                     |
 
 
 # Current stage
