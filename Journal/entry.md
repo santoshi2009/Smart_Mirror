@@ -35,6 +35,7 @@ able to work and complete this project.
 
 After this i am applying for the grant. i want to work on this project as soon as possible as it is making me very excited.
 
+## After this i had applied for the grant without cad , but it was rejected so i learned the cad for next month and i was learning it form youtube and different websites. i didnt added any journal during the learning phase. Then after being able to somehow make cad design from nothing to somthing game a great motivation . after that i made CAD design although it took me lot of time , i somehow was able to make it . so after making and doing the changes i have applied for the grant to complete this project as soon as possible after working on this project this long.
 
 # Next Steps after Grant
   so first of all i will try to buy the items listed items as soon as possible.
