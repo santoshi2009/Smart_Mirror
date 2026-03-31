@@ -24,14 +24,14 @@ more features can be added by including the api in it.
 
 # How to use this project
  1. First of all, the user needs to install the nodejs in the system from the official website. i used magic mirror because it makes the module integration easier.
- 2. Then user should clone the repository of magic mirror . Here is the  link -> [https://github.com/MagicMirrorOrg/MagicMirror]
+ 2. Then user should clone the repository of magic mirror . Here is the  link -> [https://tinyurl.com/5n887fes)]
  3. Then user should copy the project files into the MagicMirror modules folder.
  4. Now Open the config.js file and add the module configuration.
  5. after that, Run the MagicMirror using the command:
    [npm run start]
  6. The smart mirror interface will appear on the screen.
  7. For best experience, run it in full screen or on a Raspberry Pi connected to a display behind a two way Mirror.
- 8. 
+
 ### Note
 I have made this project  on top of MagicMirror and customized for my use case.
 
@@ -79,3 +79,8 @@ Well  i have never worked earlier into anything like this. This project teaches 
 # Current stage
 Currently i am designing and prototyping stage where i am exploring how i can build it in efficient manner.
 I have now applied for the grant and waiting for it to get approved as soon as possible as it is makaing me very excited to work on.
+
+# What Next 
+After approval of the Grant i will first purchase all the components as soon as possible and then i will start build the wooden frame of the for the ply and then finally complete the project as mentioned  .
+Well , i am not done learning yet.I am planing to improve this project by adding more interactive features like motion detection and camera-based functionality. I also want to refine the hardware design and make the system more practical and efficient for real world use. Additionally, I will continue improving the interface and overall performance.
+ 
