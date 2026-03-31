@@ -22,18 +22,32 @@ News
 
 more features can be added by including the api in it.
 
-# How to use this project
- 1. First of all, the user needs to install the nodejs in the system from the official website. i used magic mirror because it makes the module integration easier.
- 2. Then user should clone the repository of magic mirror . Here is the  link -> [https://tinyurl.com/5n887fes)]
- 3. Then user should copy the project files into the MagicMirror modules folder.
- 4. Now Open the config.js file and add the module configuration.
- 5. after that, Run the MagicMirror using the command:
-   [npm run start]
- 6. The smart mirror interface will appear on the screen.
- 7. For best experience, run it in full screen or on a Raspberry Pi connected to a display behind a two way Mirror.
 
-### Note
-I have made this project  on top of MagicMirror and customized for my use case.
+## Note
+This project focuses on designing a complete smart mirror system, including hardware planning, CAD modeling, and software integration, rather than just setting up existing tools.I have made this project  on top of MagicMirror and customized for my use case.
+
+
+## why I am using Raspberry pi and Display ?
+
+### Raspberry Pi:
+So i am using Raspberry pi in this project because the project runs the customized MagicMirror which depends on node.js and a full operating system. And i will be integrating the camera module for feaures like user detection smart interaction and and internet based customized APIs for weather and News, all of which requires higher processing power of Raspberry pi  and cannot be handled by Microcontoller like Arduino.
+
+### Display:
+Like i am using dipslay because it shows the interface behind the two-way mirror and is connected to raspberry pi that will act as the UI for the magic mirror and show the all the api's information , time and dates, weaether , etc . i will be not directly using the monitor as it is , we have to fit the display by removing all the other above covering of a monitor to fit inside the wooden frame i am going to make myself from ply that hold everything.
+
+## What This project teaches me?
+Well  i have never worked earlier into anything like this. This project teaches me a lot of things :- hardware assemmbly , software and then integrating hardware and software to make a complete smart system. It helps me learn How the Magic Mirror and pi works , how display & sensors is connected and works . One of the thing that helps me a lot is configurin gthe modules which helps me improve my problem solving skills and uderstand the system Design. i am really excited for the project now.
+
+# Current stage
+Currently i am designing and prototyping stage where i am exploring how i can build it in efficient manner.
+I have now applied for the grant and waiting for it to get approved as soon as possible as it is makaing me very excited to work on.
+
+# What Next 
+
+After approval of the Grant i will first purchase all the components as soon as possible and then i will start build the wooden frame of the for the ply and then finally complete the project as mentioned  .
+Well , i am not done learning yet.I am planing to improve this project by adding more interactive features like motion detection and camera-based functionality. I also want to refine the hardware design and make the system more practical and efficient for real world use. Additionally, I will continue improving the interface and overall performance.
+
+
 
 ## 3D CAD SCREENSHOTS
  <img width="1598" height="875" alt="screenshot (1)" src="https://github.com/user-attachments/assets/5d2bbaa3-1c10-466d-a7c4-16d551232722" />
@@ -64,24 +78,16 @@ I have made this project  on top of MagicMirror and customized for my use case.
 |Total                                                 |382.76  |                                |                                                                     |
 
 
+# How to use this project
+ 1. First of all, the user needs to install the nodejs in the system from the official website. i used magic mirror because it makes the module integration easier.
+ 2. Then user should clone the repository of magic mirror . Here is the  link -> [https://tinyurl.com/5n887fes)]
+ 3. Then user should copy the project files into the MagicMirror modules folder.
+ 4. Now Open the config.js file and add the module configuration.
+ 5. after that, Run the MagicMirror using the command:
+   [npm run start]
+ 6. The smart mirror interface will appear on the screen.
+ 7. For best experience, run it in full screen or on a Raspberry Pi connected to a display behind a two way Mirror.
 
-## why I am using Raspberry pi and Display ?
 
-### Raspberry Pi:
-So i am using Raspberry pi in this project because the project runs the customized MagicMirror which depends on node.js and a full operating system. And i will be integrating the camera module for feaures like user detection smart interaction and and internet based customized APIs for weather and News, all of which requires higher processing power of Raspberry pi  and cannot be handled by Microcontoller like Arduino.
 
-### Display:
-Like i am using dipslay because it shows the interface behind the two-way mirror and is connected to raspberry pi that will act as the UI for the magic mirror and show the all the api's information , time and dates, weaether , etc . i will be not directly using the monitor as it is , we have to fit the display by removing all the other above covering of a monitor to fit inside the wooden frame i am going to make myself from ply that hold everything.
 
-## What This project teaches me?
-Well  i have never worked earlier into anything like this. This project teaches me a lot of things :- hardware assemmbly , software and then integrating hardware and software to make a complete smart system. It helps me learn How the Magic Mirror and pi works , how display & sensors is connected and works . One of the thing that helps me a lot is configurin gthe modules which helps me improve my problem solving skills and uderstand the system Design. i am really excited for the project now.
-
-# Current stage
-Currently i am designing and prototyping stage where i am exploring how i can build it in efficient manner.
-I have now applied for the grant and waiting for it to get approved as soon as possible as it is makaing me very excited to work on.
-
-# What Next 
-
-After approval of the Grant i will first purchase all the components as soon as possible and then i will start build the wooden frame of the for the ply and then finally complete the project as mentioned  .
-Well , i am not done learning yet.I am planing to improve this project by adding more interactive features like motion detection and camera-based functionality. I also want to refine the hardware design and make the system more practical and efficient for real world use. Additionally, I will continue improving the interface and overall performance.
- 
