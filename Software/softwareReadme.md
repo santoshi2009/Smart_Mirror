@@ -10,7 +10,7 @@ To setup windows first of all we will require a flash card to install the os in 
 
 ## How to use this project
  1. First of all, the user needs to install the nodejs in the system from the official website. i used magic mirror because it makes the module integration easier.
- 2. Then user should clone the repository of magic mirror . Here is the  link -> [https://github.com/MagicMirrorOrg/MagicMirror]
+ 2. Then user should clone the repository of magic mirror . Here is the  link -> [(https://tinyurl.com/5n887fes)]
  3. Then user should copy the project files into the MagicMirror modules folder.
  4. Now Open the config.js file and add the module configuration.
  5. after that, Run the MagicMirror using the command:
