@@ -64,6 +64,18 @@ I have made this project  on top of MagicMirror and customized for my use case.
 |Total                                                 |382.76  |                                |                                                                     |
 
 
+
+## why I am using Raspberry pi and Display ?
+
+### Raspberry Pi:
+So i am using Raspberry pi in this project because the project runs the customized MagicMirror which depends on node.js and a full operating system. And i will be integrating the camera module for feaures like user detection smart interaction and and internet based customized APIs for weather and News, all of which requires higher processing power of Raspberry pi  and cannot be handled by Microcontoller like Arduino.
+
+### Display:
+Like i am using dipslay because it shows the interface behind the two-way mirror and is connected to raspberry pi that will act as the UI for the magic mirror and show the all the api's information , time and dates, weaether , etc . i will be not directly using the monitor as it is , we have to fit the display by removing all the other above covering of a monitor to fit inside the wooden frame i am going to make myself from ply that hold everything.
+
+## What This project teaches me?
+Well  i have never worked earlier into anything like this. This project teaches me a lot of things :- hardware assemmbly , software and then integrating hardware and software to make a complete smart system. It helps me learn How the Magic Mirror and pi works , how display & sensors is connected and works . One of the thing that helps me a lot is configurin gthe modules which helps me improve my problem solving skills and uderstand the system Design. i am really excited for the project now.
+
 # Current stage
 Currently i am designing and prototyping stage where i am exploring how i can build it in efficient manner.
-I have now applied for the grant and waiting for it to get approved as soon as possible as it is kaing me very excited to work on.
+I have now applied for the grant and waiting for it to get approved as soon as possible as it is makaing me very excited to work on.
