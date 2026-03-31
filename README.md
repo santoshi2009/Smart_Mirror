@@ -81,6 +81,7 @@ Currently i am designing and prototyping stage where i am exploring how i can bu
 I have now applied for the grant and waiting for it to get approved as soon as possible as it is makaing me very excited to work on.
 
 # What Next 
+
 After approval of the Grant i will first purchase all the components as soon as possible and then i will start build the wooden frame of the for the ply and then finally complete the project as mentioned  .
 Well , i am not done learning yet.I am planing to improve this project by adding more interactive features like motion detection and camera-based functionality. I also want to refine the hardware design and make the system more practical and efficient for real world use. Additionally, I will continue improving the interface and overall performance.
  
